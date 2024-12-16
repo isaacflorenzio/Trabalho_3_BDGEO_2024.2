@@ -7,4 +7,4 @@ Trabalho de Banco de Dados Geográficos - IT575
 
 Período 2024.2
 
-Grupo: Isaac Silva Florêncio e Robert Kil da Cruz.
+Grupo 2: Isaac Silva Florêncio e Robert Kil da Cruz.
