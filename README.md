@@ -1,4 +1,4 @@
-# Trabalho_3_BDGEO_2024.2
+# Trabalho_3_Grupo_2_BDGEO_2024.2
 Universidade Federal Rural do Rio de Janeiro - UFRRJ
 
 Departamento de Engenharia - DE
