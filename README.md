@@ -5,6 +5,6 @@ Departamento de Engenharia - DE
 
 Trabalho de Banco de Dados Geográficos - IT575
 
-Período 2024.2;
+Período 2024.2
 
 Grupo: Isaac Silva Florêncio e Robert Kil da Cruz.
